@@ -1,9 +1,0 @@
-<customMapSource>
-    <name>Norway Topo 2</name>
-    <minZoom>1</minZoom>
-    <maxZoom>25</maxZoom>
-    <tileType>png</tileType>
-    <tileUpdate>None</tileUpdate>
-    <url>https://openwms.statkart.no/skwms1/wms.topo?</url>
-    <backgroundColor>#000000</backgroundColor>
-</customMapSource>

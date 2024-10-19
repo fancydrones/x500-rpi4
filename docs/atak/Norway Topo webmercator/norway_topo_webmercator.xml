@@ -1,7 +1,7 @@
 <customMapSource>
-    <name>Norway Topo 1</name>
-    <minZoom>1</minZoom>
-    <maxZoom>25</maxZoom>
+    <name>Norway Topo webmercator</name>
+    <minZoom>0</minZoom>
+    <maxZoom>30</maxZoom>
     <tileType>png</tileType>
     <tileUpdate>None</tileUpdate>
     <url>https://cache.kartverket.no/v1/wmts/1.0.0/topo/default/webmercator/{$z}/{$y}/{$x}.png</url>
